@@ -1,4 +1,35 @@
-#Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Wairimu Gakuya
+ProfileMe.dev
+
+
+Introduction
+Skills
+Socials
+Badges
+Support
+Go home
+© 2025 Dan Cranney
+
+Follow me
+|
+Buy Me a Coffee
+Support
+Make it easy for people using your products to support you or give donations.
+
+
+Previous
+buymeacoffee
+Buy Me a Coffee:
+yourname
+kofi
+Ko-fi:
+yourname
+
+Previous
+Reorder Sections
+Preview
+Markdown
+Copy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Wairimu Gakuya
 =======================================================================================================================================
 
 Web developer and designer
@@ -6,6 +37,8 @@ Web developer and designer
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [brendawgakuya2@gmail.coml.com](mailto:brendawgakuya2@gmail.coml.com)
+* 🧠  I'm currently learning Programming
+* 👥  I'm looking to collaborate on On project entailing programming
 
 
 ### Socials
@@ -27,4 +60,4 @@ src="https://img.shields.io/twitter/follow/Brenda Gakuya?logo=twitter&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> Wairimu-Gakuya-
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
